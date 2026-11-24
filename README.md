@@ -4,7 +4,7 @@
 
 <p align="center"><b>mingshenchea-cmyk</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
-<p align="center"><a href="https://github.com/mingshenchea-cmyk">GitHub</a></p>
+<p align="center"><a href="https://github.com/mingshenchea-cmyk">GitHub</a> · <a href="https://www.linkedin.com/in/ming-shen-chea-07031a282/">LinkedIn</a></p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
