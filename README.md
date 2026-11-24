@@ -14,8 +14,8 @@
   <img src="https://www.gitskins.com/api/section/projects?username=mingshenchea-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251540147%3Fv%3D4" alt="mingshenchea-cmyk projects visual" />
 </p>
 
-- [mingshenchea-cmyk](https://github.com/mingshenchea-cmyk/mingshenchea-cmyk) · ★ 0
-- [TARUMT-AI-Chatbot](https://github.com/mingshenchea-cmyk/TARUMT-AI-Chatbot) · ★ 0
+<!-- [mingshenchea-cmyk](https://github.com/mingshenchea-cmyk/mingshenchea-cmyk) · ★ 0 -->
+- [TARUMT-AI-Chatbot](https://github.com/mingshenchea-cmyk/TARUMT-AI-Chatbot) · ★ 0 — A RAG (Retrieval-Augmented Generation) chatbot that answers questions about Tunku Abdul Rahman University of Management and Technology (TARUMT)
 - [HAndMaybe](https://github.com/mingshenchea-cmyk/HAndMaybe) · ★ 0
 - [vehicle-detection](https://github.com/mingshenchea-cmyk/vehicle-detection) · ★ 0
 - [BARD-Vehicle-Detection](https://github.com/mingshenchea-cmyk/BARD-Vehicle-Detection) · ★ 0
