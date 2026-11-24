@@ -21,7 +21,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🧰 Stack</b></summary>
 <br/>
 
@@ -31,7 +31,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>📊 By the numbers</b></summary>
 <br/>
 
@@ -43,7 +43,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🟩 Activity</b></summary>
 <br/>
 
@@ -53,7 +53,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>👋 Say hello</b></summary>
 <br/>
 
