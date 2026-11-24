@@ -72,7 +72,7 @@
 <summary><b>📊 By the numbers</b></summary>
 <br/>
 
-<b>5</b> public repositories, <b>26</b> contributions in the last year, a longest streak of <b>2</b> days.
+<b>6</b> public repositories, <b>44</b> contributions in the last year, a longest streak of <b>2</b> days.
 <!--
 <b>5</b> public repositories, <b>0</b> stars, <b>26</b> contributions in the last year, a longest streak of <b>2</b> days and <b>0</b> followers.
 -->
