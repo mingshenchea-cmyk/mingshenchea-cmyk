@@ -2,10 +2,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=mingshenchea-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251540147%3Fv%3D4" alt="mingshenchea-cmyk hero visual" />
 </p>
 
-<p align="center"><b>Chea Ming Shen</b> · Data Science Graduate<br/><sub>AI, Data & Software</sub></p>
-
-<p align="center"><a href="https://github.com/mingshenchea-cmyk">GitHub</a> · <a href="https://www.linkedin.com/in/ming-shen-chea-07031a282/">LinkedIn</a></p>
-
 <details open>
 <summary><b>📌 Top projects</b></summary>
 <br/>
