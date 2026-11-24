@@ -63,4 +63,4 @@
 
 </details>
 
-<p align="center"><sub>mingshenchea-cmyk · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Chea Ming Shen · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
