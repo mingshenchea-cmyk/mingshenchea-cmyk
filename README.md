@@ -17,7 +17,7 @@
 - [TARUMT-AI-Chatbot](https://github.com/mingshenchea-cmyk/TARUMT-AI-Chatbot) · A RAG (Retrieval-Augmented Generation) chatbot that answers questions about Tunku Abdul Rahman University of Management and Technology (TARUMT)
 - [HAndMaybe](https://github.com/mingshenchea-cmyk/HAndMaybe) · A full-stack fashion store — shop, pay, and track, with a complete admin back office
 - [vehicle-detection](https://github.com/mingshenchea-cmyk/vehicle-detection) · YOLO12-powered vehicle detection that stays reliable in clear, foggy, night and rainy conditions
-- [BARD-Vehicle-Detection](https://github.com/mingshenchea-cmyk/BARD-Vehicle-Detection) · Dataset designed for training and evaluating YOLO-based vehicle detection models in diverse conditions, including adverse weather.
+- [BARD-Vehicle-Detection](https://github.com/mingshenchea-cmyk/BARD-Vehicle-Detection) · Dataset designed for training and evaluating YOLO-based vehicle detection models in diverse conditions, including adverse weather
 
 </details>
 
