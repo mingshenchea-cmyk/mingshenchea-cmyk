@@ -12,7 +12,7 @@
 
 - [vehicle-detection](https://github.com/mingshenchea-cmyk/vehicle-detection) · YOLO12-powered vehicle detection that stays reliable in clear, foggy, night and rainy conditions
 - [HAndMaybe](https://github.com/mingshenchea-cmyk/HAndMaybe) · A full-stack fashion store — shop, pay, and track, with a complete admin back office
-- [TARUMT-AI-Chatbot](https://github.com/mingshenchea-cmyk/TARUMT-AI-Chatbot) · A RAG (Retrieval-Augmented Generation) chatbot that answers questions about Tunku Abdul Rahman University of Management and Technology (TARUMT)
+- [TARUMT-AI-Chatbot](https://github.com/mingshenchea-cmyk/TARUMT-AI-Chatbot) · A RAG chatbot that answers questions about TARUMT
 - [BARD-Vehicle-Detection](https://github.com/mingshenchea-cmyk/BARD-Vehicle-Detection) · Dataset designed for training and evaluating YOLO-based vehicle detection models in diverse conditions, including adverse weather
 - [Pose-ReID](https://github.com/mingshenchea-cmyk/Pose-ReID) · A tracking-assisted person re-identification system that matches people across multiple camera feeds using shoulder-normalized body proportions and shirt colour
 - [portfolio-tracker](https://github.com/mingshenchea-cmyk/portfolio-tracker) · A multi-currency portfolio tracker built in Google Sheets. Enter each trade once — every position, cost basis, fee, FX conversion, wallet balance and drawdown alert is derived from that single log
