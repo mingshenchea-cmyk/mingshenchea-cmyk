@@ -25,8 +25,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=mingshenchea-cmyk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251540147%3Fv%3D4" alt="mingshenchea-cmyk stack visual" />
 </p>
 
-## 🧰 Skills
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
