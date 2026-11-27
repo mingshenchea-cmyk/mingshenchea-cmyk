@@ -14,7 +14,7 @@
 - [HAndMaybe](https://github.com/mingshenchea-cmyk/HAndMaybe) · A full-stack fashion store — shop, pay, and track, with a complete admin back office
 - [TARUMT-AI-Chatbot](https://github.com/mingshenchea-cmyk/TARUMT-AI-Chatbot) · A RAG chatbot that answers questions about TARUMT
 - [BARD-Vehicle-Detection](https://github.com/mingshenchea-cmyk/BARD-Vehicle-Detection) · Dataset designed for training and evaluating YOLO-based vehicle detection models in diverse conditions, including adverse weather
-- [Pose-ReID](https://github.com/mingshenchea-cmyk/Pose-ReID) · A tracking-assisted person re-identification system that matches people across multiple camera feeds using shoulder-normalized body proportions and shirt colour
+- [Pose-ReID](https://github.com/mingshenchea-cmyk/Pose-ReID) · Tracking-assisted person re-identification across camera feeds using shoulder-normalized body proportions and shirt colour
 - [portfolio-tracker](https://github.com/mingshenchea-cmyk/portfolio-tracker) · A multi-currency portfolio tracker built in Google Sheets
 </details>
 
